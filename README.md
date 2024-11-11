@@ -1,16 +1,11 @@
 # Python Discord Bot Template
 
 <p align="center">
-  <a href="https://discord.gg/mTBrXyWxAF"><img src="https://img.shields.io/discord/739934735387721768?logo=discord"></a>
-  <a href="https://github.com/kkrypt0nn/Python-Discord-Bot-Template/releases"><img src="https://img.shields.io/github/v/release/kkrypt0nn/Python-Discord-Bot-Template"></a>
-  <a href="https://github.com/kkrypt0nn/Python-Discord-Bot-Template/commits/main"><img src="https://img.shields.io/github/last-commit/kkrypt0nn/Python-Discord-Bot-Template"></a>
   <a href="https://github.com/kkrypt0nn/Python-Discord-Bot-Template/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/kkrypt0nn/Python-Discord-Bot-Template"></a>
-  <a href="https://github.com/kkrypt0nn/Python-Discord-Bot-Template"><img src="https://img.shields.io/github/languages/code-size/kkrypt0nn/Python-Discord-Bot-Template"></a>
-  <a href="https://conventionalcommits.org/en/v1.0.0/"><img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white"></a>
   <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 </p>
 
-This repository is a template that everyone can use for the start of their Discord bot.
+<!--This repository is a template that everyone can use for the start of their Discord bot.
 
 When I first started creating my Discord bot it took me a while to get everything setup and working with cogs and more.
 I would've been happy if there were any template existing. However, there wasn't any existing template. That's why I
@@ -35,7 +30,7 @@ basics or some advanced topics such as OOP or async. [Here's](https://pythondisc
 
 If you need some help for something, do not hesitate to join my Discord server [here](https://discord.gg/mTBrXyWxAF).
 
-All the updates of the template are available [here](UPDATES.md).
+All the updates of the template are available [here](UPDATES.md). -->
 
 ## Disclaimer
 
@@ -49,9 +44,6 @@ the `@app_commands.guilds()` decorator so that it gets registered instantly. Exa
 )
 @app_commands.guilds(discord.Object(id=GUILD_ID)) # Place your guild ID here
 ```
-
-When using the template you confirm that you have read the [license](LICENSE.md) and comprehend that I can take down
-your repository if you do not meet these requirements.
 
 ## How to download it
 
@@ -113,20 +105,6 @@ python bot.py
 
 > **Note** You may need to replace `python` with `py`, `python3`, `python3.11`, etc. depending on what Python versions you have installed on the machine.
 
-## Issues or Questions
-
-If you have any issues or questions of how to code a specific command, you can:
-
-- Join my Discord server [here](https://discord.gg/mTBrXyWxAF)
-- Post them [here](https://github.com/kkrypt0nn/Python-Discord-Bot-Template/issues)
-
-Me or other people will take their time to answer and help you.
-
-## Versioning
-
-We use [SemVer](http://semver.org) for versioning. For the versions available, see
-the [tags on this repository](https://github.com/kkrypt0nn/Python-Discord-Bot-Template/tags).
-
 ## Built With
 
 - [Python 3.11.5](https://www.python.org/)
@@ -134,3 +112,6 @@ the [tags on this repository](https://github.com/kkrypt0nn/Python-Discord-Bot-Te
 ## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details
+
+## Credits
+<a href="https://github.com/kkrypt0nn/Python-Discord-Bot-Template">kkrypt0nn</a>
